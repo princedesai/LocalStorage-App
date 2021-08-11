@@ -1,0 +1,58 @@
+.mainbody{
+    height: 100%;
+    width:100%;
+    background-color: palevioletred;
+    position:absolute;
+}
+.formbody{
+    background-color: palevioletred;
+    position: relative;
+    height:50%;
+    width: 50%;
+    align-self: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    border-radius: 2px;
+    }
+.inputfeild{
+        background-color: white;
+        width:inherit;
+        height: fit-content;
+        border-radius: 2px;
+    }
+.firstname{
+        width: inherit;
+        height: fit-content;
+        border-radius: 2px;
+    }
+.button{
+        align-self: center;
+        align-content: center;
+        background-color: darkblue;
+        padding-right: 10% ;
+        border-radius: 2px;
+        border-style: double;
+    }
+.tableheader{
+        align-content: center;
+        width: 260.94px;
+        background-color: palevioletred;
+        color: white;
+        position: initial;
+        border-radius: 2px;
+        border-color: black;
+        border-style: groove;
+    }
+.tablerow{
+        align-content: center;
+        width: 260.94px;
+        background-color: palevioletred;
+        color: white;
+        position: initial;
+        border: 2px;
+        border-color: black;
+        border-style: double;
+        }
+        
